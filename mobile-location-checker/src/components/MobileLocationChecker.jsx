@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import Header from './Header';
+import Header from './Header.jsx';
 import SearchForm from './SearchForm';
 import LocationDetails from './LocationDetails';
 import MapComponent from './MapComponent';
